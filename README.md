@@ -22,4 +22,9 @@ Option (* = required)  Description
 -s, --seed             Continue to seed when download is complete              
 --trace                Enable trace logging                                    
 -v, --verbose          Enable more verbose logging 
+
+
+$ ![](bt-cli-demo.gif)
 ```
+
+	
