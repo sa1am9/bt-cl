@@ -24,7 +24,6 @@ Option (* = required)  Description
 -v, --verbose          Enable more verbose logging 
 
 
-$ ![](bt-cli-demo.gif)
 ```
 
 	
